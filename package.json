@@ -1,0 +1,20 @@
+{
+  "name": "vagus",
+  "version": "3.9.6",
+  "description": "blablablablablablbalablablablablabl ya lublu cs2 i minecraft",
+  "main": "sty1e.js",
+  "scripts": {
+    "test": "cs",
+    "start": "node style.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LONELY-DUckWolf/sty1eF.git"
+  },
+  "author": "vagus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LONELY-DUckWolf/sty1eF/issues"
+  },
+  "homepage": "https://github.com/LONELY-DUckWolf/sty1eF#readme"
+}
